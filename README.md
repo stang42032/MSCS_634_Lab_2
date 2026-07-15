@@ -1,6 +1,6 @@
 # MSCS 634 — Lab 2: KNN and RNN Classification
 
-**Name:** Shuyang (J) Tang
+**Name:** Shuyang Tang
 **Course:** MSCS 634 — Advanced Data Mining
 **Lab:** Lab 2 — K-Nearest Neighbors (KNN) and Radius Neighbors (RNN) Classification Using the Wine Dataset
 
